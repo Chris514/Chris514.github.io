@@ -52,13 +52,13 @@
       <!-- <h3>Sentiment in 10-K filings and stock returns</h3> -->
       <p>
         <!-- <a href="./pdf/report.md" style="font-weight:bold; font-style:italic; font-size:1.1em;">
-          entiment in 10-K filings and stock returns
+          Sentiment in 10-K filings and stock returns
         </a> -->
                <!-- <a href="https://nbviewer.org/github/Chris514/Chris514.github.io/blob/master/pdf/report.md" style="font-weight:bold; font-style:italic; font-size:1.1em;">
-          entiment in 10-K filings and stock returns
+          Sentiment in 10-K filings and stock returns
         </a> -->
         <a href="/pdf/report.html" style="font-weight:bold; font-style:italic; font-size:1.1em;">
-          entiment in 10-K filings and stock returns
+          Sentiment in 10-K filings and stock returns
         </a>
       </p>
             <p>This project explores how the sentiment in companies’ 10-K filings affects their stock returns. By analyzing the text of 501 firms’ 10-K reports and measuring sentiment using established dictionaries and machine learning, we investigate how positive or negative language relates to stock performance before and after the filing date. The results show that negative sentiment in these filings is linked to lower short-term stock returns, while positive sentiment’s effect is less consistent. Overall, the study highlights the predictive value of financial sentiment for market reactions.</p>
