@@ -1,9 +1,8 @@
-<!-- [Natural language processing 10-Ks to identify risks](/pdf/report.md) -->
-<!-- 引入自定义样式和脚本 -->
+
 <link rel="stylesheet" href="./assets/css/style.css">
 <script src="./assets/js/script.js"></script>
 
-<!-- 侧边栏和主内容区用HTML实现，内容用你的个人信息填充 -->
+
 
 <div class="wrapper">
   <div class="sidebar">
@@ -50,7 +49,7 @@
     <h2>Portfolio</h2>
     </section>
     <div class="portfolio-item">
-      <!-- <h3>entiment in 10-K filings and stock returns</h3> -->
+      <!-- <h3>Sentiment in 10-K filings and stock returns</h3> -->
       <p>
         <!-- <a href="./pdf/report.md" style="font-weight:bold; font-style:italic; font-size:1.1em;">
           entiment in 10-K filings and stock returns
@@ -77,7 +76,6 @@
       <img src="MidtermPro/output_11_0.png" alt="Sentiment Profiles Over Event Time" />
     </div>
        <!-- <a href="https://nbviewer.org/github/Chris514/Chris514.github.io/blob/master/pdf/sample_presentation.pdf" class="btn" target="_blank">View on nbviewer</a> -->
-  </section>
 
   <section id="contact" class="section">
     <h2>Contact</h2>
@@ -90,4 +88,3 @@
   <p>© 2024 Chris Luo. Design: HTML5 UP.</p>
 </footer>
 
-<!-- 如需自定义样式，请在assets/css/wide_style.scss中添加 -->
